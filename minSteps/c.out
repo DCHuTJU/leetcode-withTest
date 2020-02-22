@@ -1,0 +1,6 @@
+mode: set
+algorithm/minSteps/minSteps.go:5.26,7.23 2 1
+algorithm/minSteps/minSteps.go:13.2,13.12 1 1
+algorithm/minSteps/minSteps.go:7.23,8.16 1 1
+algorithm/minSteps/minSteps.go:8.16,11.4 2 1
+algorithm/minSteps/minSteps.go:16.13,20.2 3 0
