@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="" />
+    <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSlideWindow/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSlideWindow/maxSlideWindow.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSlideWindow/maxSlideWindow.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSlideWindow/maxSlideWindow_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="E:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y8z6W9A4ZMk9eYAWer1alLsODK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -33,12 +56,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)">
-    <configuration name="go build SpiralOrder.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build maxSlideWindow.go">
+    <configuration name="go build maxSlideWindow.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/spiralOrder/SpiralOrder.go" />
+      <filePath value="$PROJECT_DIR$/maxSlideWindow/maxSlideWindow.go" />
       <method v="2" />
     </configuration>
     <configuration name="SpiralOrder.go SpiralOrder_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -83,23 +106,37 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build SpiralOrder.go" />
       <item itemvalue="Go Test.SpiralOrder_test.go" />
       <item itemvalue="Go Test.SpiralOrder.go SpiralOrder_test.go" />
       <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go" />
       <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
+      <item itemvalue="Go Build.go build maxSlideWindow.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build maxSlideWindow.go" />
         <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
         <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go" />
         <item itemvalue="Go Test.SpiralOrder.go SpiralOrder_test.go" />
         <item itemvalue="Go Test.SpiralOrder_test.go" />
-        <item itemvalue="Go Build.go build SpiralOrder.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

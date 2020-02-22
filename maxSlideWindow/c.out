@@ -1,0 +1,12 @@
+mode: set
+algorithm/maxSlideWindow/maxSlideWindow.go:5.48,6.20 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:10.2,12.22 3 1
+algorithm/maxSlideWindow/maxSlideWindow.go:29.2,29.15 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:6.20,8.3 1 0
+algorithm/maxSlideWindow/maxSlideWindow.go:12.22,13.68 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:18.3,19.38 2 1
+algorithm/maxSlideWindow/maxSlideWindow.go:24.3,24.15 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:13.68,16.4 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:19.38,22.4 1 0
+algorithm/maxSlideWindow/maxSlideWindow.go:24.15,27.4 1 1
+algorithm/maxSlideWindow/maxSlideWindow.go:32.13,37.2 4 0
