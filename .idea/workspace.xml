@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/maxSubArray/maxSubArray.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxSubArray/maxSubArray_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthOfLIS/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthOfLIS/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
