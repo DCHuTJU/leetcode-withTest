@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lengthOfLIS/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lengthOfLIS/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/minimumTotal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/minimumTotal.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumTotal/minimumTotal_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\algorithm\lengthOfLIS" />
       <recent name="F:\algorithm\maxSubArray" />
       <recent name="F:\algorithm\spiralOrder" />
     </key>
