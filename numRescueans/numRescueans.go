@@ -5,6 +5,8 @@ import (
 	"sort"
 )
 
+// 通过查看 cpu.out 可以看出执行过程中 makeslice 将耗费大部分时间，因此可以考虑将 dp 与 grid 重叠进行操作
+// 思想与 三角形的那道题一样
 func numRescueans(people []int, limit int) int {
 	sort.Ints(people)
 	ans := 0

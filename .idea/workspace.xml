@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numRescueans/numRescueans.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numRescueans/numRescueans_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minPathSum/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minPathSum/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minPathSum/minPathSum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minPathSum/minPathSum.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minPathSum/minPathSum_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rob/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rob/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rob/rob.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rob/rob.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rob/rot_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numRescueans/numRescueans.go" beforeDir="false" afterPath="$PROJECT_DIR$/numRescueans/numRescueans.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +68,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build climbStairs.go">
+  <component name="RunManager" selected="Go Build.go build algorithm/minPathSum">
+    <configuration name="go build algorithm/minPathSum" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/minPathSum/minPathSum.go" />
+      <package value="algorithm/minPathSum" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build climbStairs.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -74,14 +92,6 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/maxSlideWindow/maxSlideWindow.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SpiralOrder.go SpiralOrder_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/spiralOrder" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/spiralOrder/SpiralOrder.go|$PROJECT_DIR$/spiralOrder/SpiralOrder_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="gobench SpiralOrder.go SpiralOrder_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -103,17 +113,17 @@
     <list>
       <item itemvalue="Go Build.go build maxSlideWindow.go" />
       <item itemvalue="Go Build.go build climbStairs.go" />
-      <item itemvalue="Go Test.SpiralOrder.go SpiralOrder_test.go" />
       <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go" />
       <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
+      <item itemvalue="Go Build.go build algorithm/minPathSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algorithm/minPathSum" />
         <item itemvalue="Go Build.go build climbStairs.go" />
         <item itemvalue="Go Build.go build maxSlideWindow.go" />
         <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
         <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go" />
-        <item itemvalue="Go Test.SpiralOrder.go SpiralOrder_test.go" />
       </list>
     </recent_temporary>
   </component>
