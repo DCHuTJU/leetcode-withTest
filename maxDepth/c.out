@@ -1,0 +1,15 @@
+mode: set
+algorithm/maxDepth/maxDepth.go:14.35,15.17 1 1
+algorithm/maxDepth/maxDepth.go:18.2,18.59 1 1
+algorithm/maxDepth/maxDepth.go:15.17,17.3 1 1
+algorithm/maxDepth/maxDepth.go:21.24,22.11 1 1
+algorithm/maxDepth/maxDepth.go:25.2,25.10 1 1
+algorithm/maxDepth/maxDepth.go:22.11,24.3 1 0
+algorithm/maxDepth/maxDepth.go:29.48,34.22 4 0
+algorithm/maxDepth/maxDepth.go:45.2,45.12 1 0
+algorithm/maxDepth/maxDepth.go:34.22,38.24 4 0
+algorithm/maxDepth/maxDepth.go:41.3,41.23 1 0
+algorithm/maxDepth/maxDepth.go:38.24,40.4 1 0
+algorithm/maxDepth/maxDepth.go:41.23,43.4 1 0
+algorithm/maxDepth/maxDepth.go:48.13,73.30 5 0
+algorithm/maxDepth/maxDepth.go:73.30,75.3 1 0
