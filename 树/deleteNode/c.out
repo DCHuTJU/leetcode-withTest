@@ -1,0 +1,21 @@
+mode: set
+algorithm/树/deleteNode/deleteNode.go:35.53,36.17 1 1
+algorithm/树/deleteNode/deleteNode.go:39.2,39.20 1 1
+algorithm/树/deleteNode/deleteNode.go:43.2,43.20 1 1
+algorithm/树/deleteNode/deleteNode.go:48.2,48.23 1 1
+algorithm/树/deleteNode/deleteNode.go:52.2,52.22 1 0
+algorithm/树/deleteNode/deleteNode.go:56.2,57.26 2 0
+algorithm/树/deleteNode/deleteNode.go:61.2,63.13 3 0
+algorithm/树/deleteNode/deleteNode.go:36.17,38.3 1 0
+algorithm/树/deleteNode/deleteNode.go:39.20,42.3 2 1
+algorithm/树/deleteNode/deleteNode.go:43.20,46.3 2 1
+algorithm/树/deleteNode/deleteNode.go:48.23,51.3 1 1
+algorithm/树/deleteNode/deleteNode.go:52.22,55.3 1 0
+algorithm/树/deleteNode/deleteNode.go:57.26,60.3 1 0
+algorithm/树/deleteNode/deleteNode.go:66.46,69.22 1 0
+algorithm/树/deleteNode/deleteNode.go:75.2,76.13 2 0
+algorithm/树/deleteNode/deleteNode.go:69.22,74.3 3 0
+algorithm/树/deleteNode/deleteNode.go:79.31,80.17 1 1
+algorithm/树/deleteNode/deleteNode.go:83.2,85.22 3 1
+algorithm/树/deleteNode/deleteNode.go:80.17,82.3 1 1
+algorithm/树/deleteNode/deleteNode.go:88.13,93.2 3 0

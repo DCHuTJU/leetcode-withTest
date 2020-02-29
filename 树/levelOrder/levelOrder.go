@@ -11,7 +11,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func levelOrder(root *TreeNode) []interface{} {
+func LevelOrder(root *TreeNode) []interface{} {
 	var result []interface{}
 	if root == nil {
 		return result
@@ -64,6 +64,6 @@ func main() {
 			},
 		},
 	}
-	rlt := levelOrder(tree)
+	rlt := LevelOrder(tree)
 	fmt.Println(rlt)
 }

@@ -2,28 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/树/isValidBST/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isValidBST/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/deleteNode/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/deleteNode/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbStairs/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/c.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs.test.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/climbStairs/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/cpu.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelOrder/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/c.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelOrder/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/cpu.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.test.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/c.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/cpu.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/cpu1.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/cpu1.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.test.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +72,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth">
+  <component name="RunManager" selected="Go Build.go build algorithm/树/deleteNode">
+    <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/树/deleteNode/deleteNode.go" />
+      <package value="algorithm/树/deleteNode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build algorithm/minPathSum" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -117,28 +118,20 @@
       <pattern value="^BenchmarkTreeTraversal$" />
       <method v="2" />
     </configuration>
-    <configuration name="gobench SpiralOrder.go SpiralOrder_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/spiralOrder" />
-      <framework value="gobench" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/spiralOrder/SpiralOrder.go|$PROJECT_DIR$/spiralOrder/SpiralOrder_test.go" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build maxSlideWindow.go" />
       <item itemvalue="Go Build.go build climbStairs.go" />
       <item itemvalue="Go Build.go build algorithm/minPathSum" />
-      <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
       <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
+      <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
         <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
         <item itemvalue="Go Build.go build algorithm/minPathSum" />
         <item itemvalue="Go Build.go build climbStairs.go" />
         <item itemvalue="Go Build.go build maxSlideWindow.go" />
-        <item itemvalue="Go Test.gobench SpiralOrder.go SpiralOrder_test.go (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -34,7 +34,7 @@ func TestLevelOrder(t *testing.T) {
 		[]interface{}{3, 9, 20, 15, 7},
 	}
 
-	if actual := levelOrder(test.tree); reflect.DeepEqual(actual, test.rlt) == false {
+	if actual := LevelOrder(test.tree); reflect.DeepEqual(actual, test.rlt) == false {
 		t.Errorf("Algorithm wrong.")
 	}
 }
@@ -70,7 +70,7 @@ func BenchmarkLevelOrder(b *testing.B) {
 
 	b.ResetTimer()
 	for i:=0; i<b.N; i++ {
-		if actual := levelOrder(test.tree); reflect.DeepEqual(actual, test.rlt) == false {
+		if actual := LevelOrder(test.tree); reflect.DeepEqual(actual, test.rlt) == false {
 			b.Errorf("Benchmark Algorithm wrong.")
 		}
 	}
