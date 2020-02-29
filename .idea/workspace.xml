@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/levelOrder/levelOrder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/levelOrder/levelOrder_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isValidBST/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isValidBST/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isValidBST/isValidBST_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbStairs/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbStairs/climbStairs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/climbStairs_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/climbStairs/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/climbStairs/cpu.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrder/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrder/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/cpu.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrder/levelOrder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/cpu.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/cpu.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/cpu1.out" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/cpu1.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxDepth/maxDepth_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +62,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\algorithm\动态规划" />
+      <recent name="F:\algorithm\树" />
+      <recent name="F:\algorithm" />
       <recent name="F:\algorithm\lengthOfLIS" />
       <recent name="F:\algorithm\maxSubArray" />
-      <recent name="F:\algorithm\spiralOrder" />
     </key>
   </component>
   <component name="RunDashboard">

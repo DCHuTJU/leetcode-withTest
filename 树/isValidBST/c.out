@@ -1,0 +1,12 @@
+mode: set
+algorithm/树/isValidBST/isValidBST.go:15.38,16.17 1 1
+algorithm/树/isValidBST/isValidBST.go:19.2,19.50 1 1
+algorithm/树/isValidBST/isValidBST.go:16.17,18.3 1 0
+algorithm/树/isValidBST/isValidBST.go:22.49,23.17 1 1
+algorithm/树/isValidBST/isValidBST.go:27.2,27.40 1 1
+algorithm/树/isValidBST/isValidBST.go:31.2,31.106 1 1
+algorithm/树/isValidBST/isValidBST.go:23.17,25.3 1 1
+algorithm/树/isValidBST/isValidBST.go:27.40,29.3 1 0
+algorithm/树/isValidBST/isValidBST.go:34.13,56.30 2 0
+algorithm/树/isValidBST/isValidBST.go:56.30,58.3 1 0
+algorithm/树/isValidBST/isValidBST.go:58.8,60.3 1 0
