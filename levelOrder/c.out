@@ -1,0 +1,13 @@
+mode: set
+algorithm/levelOrder/levelOrder.go:14.47,16.17 2 1
+algorithm/levelOrder/levelOrder.go:20.2,23.22 3 1
+algorithm/levelOrder/levelOrder.go:42.2,42.15 1 1
+algorithm/levelOrder/levelOrder.go:16.17,18.3 1 0
+algorithm/levelOrder/levelOrder.go:23.22,26.31 3 1
+algorithm/levelOrder/levelOrder.go:38.3,38.29 1 1
+algorithm/levelOrder/levelOrder.go:26.31,31.24 3 1
+algorithm/levelOrder/levelOrder.go:34.4,34.25 1 1
+algorithm/levelOrder/levelOrder.go:31.24,33.5 1 1
+algorithm/levelOrder/levelOrder.go:34.25,36.5 1 1
+algorithm/levelOrder/levelOrder.go:38.29,40.4 1 1
+algorithm/levelOrder/levelOrder.go:45.13,69.2 3 0
