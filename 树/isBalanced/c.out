@@ -1,0 +1,18 @@
+mode: set
+algorithm/树/isBalanced/isBalanced.go:33.38,34.17 1 1
+algorithm/树/isBalanced/isBalanced.go:38.2,40.20 3 1
+algorithm/树/isBalanced/isBalanced.go:43.2,43.56 1 1
+algorithm/树/isBalanced/isBalanced.go:34.17,36.3 1 1
+algorithm/树/isBalanced/isBalanced.go:40.20,42.3 1 0
+algorithm/树/isBalanced/isBalanced.go:46.35,47.17 1 1
+algorithm/树/isBalanced/isBalanced.go:50.2,50.55 1 1
+algorithm/树/isBalanced/isBalanced.go:47.17,49.3 1 1
+algorithm/树/isBalanced/isBalanced.go:53.24,54.11 1 1
+algorithm/树/isBalanced/isBalanced.go:57.2,57.10 1 1
+algorithm/树/isBalanced/isBalanced.go:54.11,56.3 1 0
+algorithm/树/isBalanced/isBalanced.go:60.21,61.11 1 1
+algorithm/树/isBalanced/isBalanced.go:64.2,64.10 1 1
+algorithm/树/isBalanced/isBalanced.go:61.11,63.3 1 0
+algorithm/树/isBalanced/isBalanced.go:67.13,69.17 2 0
+algorithm/树/isBalanced/isBalanced.go:69.17,71.3 1 0
+algorithm/树/isBalanced/isBalanced.go:71.8,73.3 1 0

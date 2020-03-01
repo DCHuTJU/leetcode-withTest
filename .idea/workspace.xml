@@ -2,26 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/树/deleteNode/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/deleteNode/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/deleteNode/deleteNode_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/searchBST/searchBST_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isBalanced/isBalanced.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isBalanced/isBalanced_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/levelOrder/levelOrder_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,8 +125,8 @@
       <item itemvalue="Go Build.go build maxSlideWindow.go" />
       <item itemvalue="Go Build.go build climbStairs.go" />
       <item itemvalue="Go Build.go build algorithm/minPathSum" />
-      <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
       <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
+      <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
     </list>
     <recent_temporary>
       <list>
