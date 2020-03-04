@@ -1,0 +1,9 @@
+mode: set
+algorithm/getHint/getHint.go:9.50,12.24 3 1
+algorithm/getHint/getHint.go:22.2,22.22 1 1
+algorithm/getHint/getHint.go:26.2,26.54 1 1
+algorithm/getHint/getHint.go:12.24,15.22 2 1
+algorithm/getHint/getHint.go:15.22,17.4 1 1
+algorithm/getHint/getHint.go:17.9,20.4 2 1
+algorithm/getHint/getHint.go:22.22,25.3 1 1
+algorithm/getHint/getHint.go:29.13,34.2 4 0
