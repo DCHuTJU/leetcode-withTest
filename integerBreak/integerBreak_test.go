@@ -38,3 +38,19 @@ func BenchmarkIntegerBreak(b *testing.B) {
 		}
 	}
 }
+
+func BenchmarkIntegerBreakDP(b *testing.B) {
+	test := struct{
+		val int
+		rlt int
+	} {
+		10,
+		36,
+	}
+	b.ResetTimer()
+	for i:=0; i<b.N; i++ {
+		if actual := integerBreakDP(test.val); actual != test.rlt {
+			b.Errorf("Benchmark Algorithm wrong.")
+		}
+	}
+}

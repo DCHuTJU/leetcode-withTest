@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/integerBreak/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integerBreak/integerBreak.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integerBreak/integerBreak_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integerBreak/integerBreak.go" beforeDir="false" afterPath="$PROJECT_DIR$/integerBreak/integerBreak.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integerBreak/integerBreak_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/integerBreak/integerBreak_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build getHint.go">
+  <component name="RunManager" selected="Go Build.go build integerBreak.go">
     <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -95,20 +93,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build climbStairs.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/climbStairs/climbStairs.go" />
-      <package value="algorithm" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build getHint.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/getHint/getHint.go" />
+      <package value="algorithm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build integerBreak.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/integerBreak/integerBreak.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -125,19 +123,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build climbStairs.go" />
       <item itemvalue="Go Build.go build algorithm/minPathSum" />
       <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
       <item itemvalue="Go Build.go build getHint.go" />
       <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
+      <item itemvalue="Go Build.go build integerBreak.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build integerBreak.go" />
         <item itemvalue="Go Build.go build getHint.go" />
         <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
         <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
         <item itemvalue="Go Build.go build algorithm/minPathSum" />
-        <item itemvalue="Go Build.go build climbStairs.go" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +161,16 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/integerBreak/integerBreak.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
