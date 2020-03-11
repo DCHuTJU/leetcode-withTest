@@ -1,0 +1,9 @@
+mode: set
+algorithm/integerBreak/integerBreak.go:8.30,9.12 1 1
+algorithm/integerBreak/integerBreak.go:12.2,13.12 2 1
+algorithm/integerBreak/integerBreak.go:16.2,16.12 1 1
+algorithm/integerBreak/integerBreak.go:19.2,19.39 1 0
+algorithm/integerBreak/integerBreak.go:9.12,11.3 1 1
+algorithm/integerBreak/integerBreak.go:13.12,15.3 1 0
+algorithm/integerBreak/integerBreak.go:16.12,18.3 1 1
+algorithm/integerBreak/integerBreak.go:22.13,26.2 3 0
