@@ -1,0 +1,17 @@
+mode: set
+algorithm/getLeastNumbers/getLeastNumbers.go:12.28,12.45 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:13.33,13.60 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:14.38,14.60 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:16.39,18.2 1 0
+algorithm/getLeastNumbers/getLeastNumbers.go:20.37,26.2 5 0
+algorithm/getLeastNumbers/getLeastNumbers.go:28.46,29.12 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:32.2,32.19 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:37.2,38.21 2 1
+algorithm/getLeastNumbers/getLeastNumbers.go:42.2,44.28 3 1
+algorithm/getLeastNumbers/getLeastNumbers.go:50.2,50.10 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:29.12,31.3 1 0
+algorithm/getLeastNumbers/getLeastNumbers.go:32.19,34.3 1 0
+algorithm/getLeastNumbers/getLeastNumbers.go:38.21,40.3 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:44.28,45.20 1 1
+algorithm/getLeastNumbers/getLeastNumbers.go:45.20,48.4 2 1
+algorithm/getLeastNumbers/getLeastNumbers.go:53.13,58.2 4 0

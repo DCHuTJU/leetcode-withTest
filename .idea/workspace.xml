@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/integerBreak/integerBreak.go" beforeDir="false" afterPath="$PROJECT_DIR$/integerBreak/integerBreak.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integerBreak/integerBreak_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/integerBreak/integerBreak_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isStraight/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isStraight/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isStraight/isStraight.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isStraight/isStraight.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isStraight/isStraight_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxArea/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxArea/maxArea.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxArea/maxArea.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxArea/maxArea_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build integerBreak.go">
+  <component name="RunManager" selected="Go Build.go build getLeastNumbers.go">
     <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -84,20 +98,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algorithm/minPathSum" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/minPathSum/minPathSum.go" />
-      <package value="algorithm/minPathSum" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build getHint.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/getHint/getHint.go" />
+      <package value="algorithm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build getLeastNumbers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -123,19 +137,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build algorithm/minPathSum" />
       <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
       <item itemvalue="Go Build.go build getHint.go" />
-      <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
       <item itemvalue="Go Build.go build integerBreak.go" />
+      <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
+      <item itemvalue="Go Build.go build getLeastNumbers.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build getLeastNumbers.go" />
         <item itemvalue="Go Build.go build integerBreak.go" />
         <item itemvalue="Go Build.go build getHint.go" />
         <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
         <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
-        <item itemvalue="Go Build.go build algorithm/minPathSum" />
       </list>
     </recent_temporary>
   </component>
