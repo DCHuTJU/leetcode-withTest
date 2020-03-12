@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isStraight/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isStraight/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isStraight/isStraight.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isStraight/isStraight.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isStraight/isStraight_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxArea/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxArea/maxArea.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxArea/maxArea.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxArea/maxArea_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniquePaths/uniquePaths.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniquePaths/uniquePaths_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +52,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parral" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../videoFabric" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build getLeastNumbers.go">
+  <component name="RunManager" selected="Go Build.go build uniquePaths.go">
     <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -125,31 +112,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="BenchmarkTreeTraversal in algorithm/maxDepth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build uniquePaths.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/maxDepth" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/maxDepth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/uniquePaths/uniquePaths.go" />
+      <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkTreeTraversal$" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
       <item itemvalue="Go Build.go build getHint.go" />
       <item itemvalue="Go Build.go build integerBreak.go" />
-      <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
       <item itemvalue="Go Build.go build getLeastNumbers.go" />
+      <item itemvalue="Go Build.go build uniquePaths.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build uniquePaths.go" />
+        <item itemvalue="Go Build.go build getHint.go" />
         <item itemvalue="Go Build.go build getLeastNumbers.go" />
         <item itemvalue="Go Build.go build integerBreak.go" />
-        <item itemvalue="Go Build.go build getHint.go" />
         <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
-        <item itemvalue="Go Test.BenchmarkTreeTraversal in algorithm/maxDepth" />
       </list>
     </recent_temporary>
   </component>
