@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/uniquePaths/uniquePaths.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uniquePaths/uniquePaths_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/cpu2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/cpu3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/cpu4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
