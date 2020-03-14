@@ -21,13 +21,13 @@ func TestLengthOfLIS(t *testing.T) {
 		},
 	}
 	for _, tt := range tests {
-		if actual := lengthOfLIS(tt.nums); actual != tt.rlt {
+		if actual := lengthOfLIS1(tt.nums); actual != tt.rlt {
 			t.Errorf("Algorithm wrong.")
 		}
 	}
 }
 
-func BenchmarkLengthOfLIS(b *testing.B) {
+func BenchmarkLengthOfLIS1(b *testing.B) {
 	test := struct {
 		nums []int
 		rlt  int
@@ -38,7 +38,24 @@ func BenchmarkLengthOfLIS(b *testing.B) {
 
 	b.ResetTimer()
 	for i:=0; i<b.N; i++ {
-		if actual := lengthOfLIS(test.nums); actual != test.rlt {
+		if actual := lengthOfLIS1(test.nums); actual != test.rlt {
+			b.Errorf("Benchmark algorithm is wrong.")
+		}
+	}
+}
+
+func BenchmarkLengthOfLIS2(b *testing.B) {
+	test := struct {
+		nums []int
+		rlt  int
+	}{
+		[]int{1, 9, 5, 9, 3},
+		3,
+	}
+
+	b.ResetTimer()
+	for i:=0; i<b.N; i++ {
+		if actual := lengthOfLIS2(test.nums); actual != test.rlt {
 			b.Errorf("Benchmark algorithm is wrong.")
 		}
 	}

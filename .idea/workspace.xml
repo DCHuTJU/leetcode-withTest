@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/cpu2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/cpu3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/cpu4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/majorityElement/majorityElement_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/cpu2.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/cpu.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
