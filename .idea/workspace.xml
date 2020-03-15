@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/cpu2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/cpu2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/c.out" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/c.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/cpu.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS.test.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lengthOfLIS/lengthOfLIS_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/lengthOfLIS/lengthOfLIS_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +79,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Go Build.go build uniquePaths.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -125,6 +131,16 @@
       <filePath value="$PROJECT_DIR$/uniquePaths/uniquePaths.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
