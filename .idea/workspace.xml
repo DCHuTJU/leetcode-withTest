@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/cpu2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxAreaOfIsland/maxAreaOfIsland_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/cpu1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/cpu2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeLinkList.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build uniquePaths.go">
+  <component name="RunManager" selected="Go Build.go build mergeTwoLists.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -88,12 +88,12 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algorithm/树/deleteNode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algorithm/LinkdedList/mergeLinkList" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/树/deleteNode/deleteNode.go" />
-      <package value="algorithm/树/deleteNode" />
+      <filePath value="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" />
+      <package value="algorithm/LinkdedList/mergeLinkList" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -115,12 +115,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build integerBreak.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build mergeTwoLists.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/integerBreak/integerBreak.go" />
-      <package value="algorithm" />
+      <filePath value="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -144,19 +143,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
       <item itemvalue="Go Build.go build getHint.go" />
-      <item itemvalue="Go Build.go build integerBreak.go" />
       <item itemvalue="Go Build.go build getLeastNumbers.go" />
       <item itemvalue="Go Build.go build uniquePaths.go" />
+      <item itemvalue="Go Build.go build algorithm/LinkdedList/mergeLinkList" />
+      <item itemvalue="Go Build.go build mergeTwoLists.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build mergeTwoLists.go" />
+        <item itemvalue="Go Build.go build algorithm/LinkdedList/mergeLinkList" />
         <item itemvalue="Go Build.go build uniquePaths.go" />
         <item itemvalue="Go Build.go build getHint.go" />
         <item itemvalue="Go Build.go build getLeastNumbers.go" />
-        <item itemvalue="Go Build.go build integerBreak.go" />
-        <item itemvalue="Go Build.go build algorithm/树/deleteNode" />
       </list>
     </recent_temporary>
   </component>
