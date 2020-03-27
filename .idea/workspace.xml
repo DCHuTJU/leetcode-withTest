@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/cpu1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/cpu2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeLinkList.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countCharacters/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,15 +82,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Go Build.go build mergeTwoLists.go">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build algorithm/LinkdedList/mergeLinkList" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -130,16 +124,6 @@
       <filePath value="$PROJECT_DIR$/uniquePaths/uniquePaths.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
