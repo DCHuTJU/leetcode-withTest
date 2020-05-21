@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func maxSubArray(nums []int) int {
 	if len(nums) < 1 {
 		return 0
@@ -34,8 +32,8 @@ func max(a, b int) int {
 	return b
 }
 
-func main() {
-	var nums = []int{-2, 1, -3, 4, -1, 2, 1, -5, -4}
-	rlt := maxSubArray(nums)
-	fmt.Println("Result is: ", rlt)
-}
+//func main() {
+//	var nums = []int{-2, 1, -3, 4, -1, 2, 1, -5, -4}
+//	rlt := maxSubArray(nums)
+//	fmt.Println("Result is: ", rlt)
+//}

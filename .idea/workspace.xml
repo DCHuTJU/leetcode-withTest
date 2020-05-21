@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countCharacters/countCharacters_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countCharacters/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hasGroupSizeX/hasGroupSizeX_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAtoi/c.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAtoi/cpu.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/cgo/maxSubArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/cpucgo.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.test.exe" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,30 +84,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build mergeTwoLists.go">
-    <configuration name="go build algorithm/LinkdedList/mergeLinkList" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build algorithm/动态规划/maxSubArray">
+    <configuration name="go build algorithm/动态规划/maxSubArray" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" />
+      <package value="algorithm/动态规划/maxSubArray" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/myAtoi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" />
-      <package value="algorithm/LinkdedList/mergeLinkList" />
+      <filePath value="$PROJECT_DIR$/myAtoi/myAtoi.go" />
+      <package value="algorithm/myAtoi" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build getHint.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build maxSubArrayCgo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/getHint/getHint.go" />
-      <package value="algorithm" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build getLeastNumbers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/getLeastNumbers/getLeastNumbers.go" />
+      <filePath value="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -117,29 +120,31 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build uniquePaths.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/uniquePaths/uniquePaths.go" />
-      <package value="algorithm" />
+      <working_directory value="$PROJECT_DIR$/动态规划/maxSubArray" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/动态规划/maxSubArray" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkMaxSubArrayCgo$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build getHint.go" />
-      <item itemvalue="Go Build.go build getLeastNumbers.go" />
-      <item itemvalue="Go Build.go build uniquePaths.go" />
-      <item itemvalue="Go Build.go build algorithm/LinkdedList/mergeLinkList" />
       <item itemvalue="Go Build.go build mergeTwoLists.go" />
+      <item itemvalue="Go Build.go build algorithm/myAtoi" />
+      <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
+      <item itemvalue="Go Build.go build maxSubArrayCgo.go" />
+      <item itemvalue="Go Test.BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
+        <item itemvalue="Go Test.BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" />
+        <item itemvalue="Go Build.go build maxSubArrayCgo.go" />
+        <item itemvalue="Go Build.go build algorithm/myAtoi" />
         <item itemvalue="Go Build.go build mergeTwoLists.go" />
-        <item itemvalue="Go Build.go build algorithm/LinkdedList/mergeLinkList" />
-        <item itemvalue="Go Build.go build uniquePaths.go" />
-        <item itemvalue="Go Build.go build getHint.go" />
-        <item itemvalue="Go Build.go build getLeastNumbers.go" />
       </list>
     </recent_temporary>
   </component>

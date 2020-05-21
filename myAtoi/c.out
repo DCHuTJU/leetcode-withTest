@@ -1,0 +1,19 @@
+mode: set
+algorithm/myAtoi/myAtoi.go:9.29,11.2 1 1
+algorithm/myAtoi/myAtoi.go:13.45,16.13 2 1
+algorithm/myAtoi/myAtoi.go:20.2,20.14 1 1
+algorithm/myAtoi/myAtoi.go:35.2,35.24 1 1
+algorithm/myAtoi/myAtoi.go:44.2,44.8 1 1
+algorithm/myAtoi/myAtoi.go:16.13,18.3 1 0
+algorithm/myAtoi/myAtoi.go:22.56,23.19 1 1
+algorithm/myAtoi/myAtoi.go:25.11,26.23 1 0
+algorithm/myAtoi/myAtoi.go:28.11,29.24 1 1
+algorithm/myAtoi/myAtoi.go:31.10,33.9 2 1
+algorithm/myAtoi/myAtoi.go:35.24,38.25 1 1
+algorithm/myAtoi/myAtoi.go:38.25,41.9 2 1
+algorithm/myAtoi/myAtoi.go:48.43,50.27 2 1
+algorithm/myAtoi/myAtoi.go:62.2,62.22 1 1
+algorithm/myAtoi/myAtoi.go:50.27,54.10 2 1
+algorithm/myAtoi/myAtoi.go:55.44,56.24 1 0
+algorithm/myAtoi/myAtoi.go:58.50,59.24 1 1
+algorithm/myAtoi/myAtoi.go:65.13,69.2 3 0
