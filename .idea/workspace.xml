@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myAtoi/c.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myAtoi/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi.test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myAtoi/myAtoi_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/cgo/maxSubArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/cpucgo.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/exist/exist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/exist/exist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/movingCount/moving.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/movingCount/moving_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArray.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +30,46 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dfs/exist/exist_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -42,16 +77,68 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="E:\Go" />
+  <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dfs/movingCount/moving.go" />
+        <option value="$PROJECT_DIR$/dfs/movingCount/moving_test.go" />
+        <option value="$PROJECT_DIR$/dfs/exist/exist.go" />
+        <option value="$PROJECT_DIR$/dfs/exist/exist_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="431" />
+    <option name="y" value="80" />
+    <option name="width" value="1486" />
+    <option name="height" value="1002" />
+  </component>
   <component name="ProjectId" id="1Y8z6W9A4ZMk9eYAWer1alLsODK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs" type="462c0819:PsiDirectoryNode" />
+              <item name="exist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs" type="462c0819:PsiDirectoryNode" />
+              <item name="movingCount" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -61,7 +148,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../videoFabric" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build algorithm/动态规划/maxSubArray">
+  <component name="RunManager" selected="Go Test.TestExist in algorithm/dfs/exist">
     <configuration name="go build algorithm/动态规划/maxSubArray" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -94,59 +181,108 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algorithm/myAtoi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkExist in algorithm/dfs/exist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/myAtoi/myAtoi.go" />
-      <package value="algorithm/myAtoi" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build maxSubArrayCgo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" />
-      <package value="algorithm" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build mergeTwoLists.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LinkdedList/mergeLinkList/mergeTwoLists.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/动态规划/maxSubArray" />
+      <working_directory value="$PROJECT_DIR$/dfs/exist" />
       <framework value="gobench" />
       <kind value="PACKAGE" />
-      <package value="algorithm/动态规划/maxSubArray" />
+      <package value="algorithm/dfs/exist" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkMaxSubArrayCgo$" />
+      <pattern value="^BenchmarkExist$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkMovingCount in algorithm/dfs/movingCount" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/dfs/movingCount" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/dfs/movingCount" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkMovingCount$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExist in algorithm/dfs/exist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/dfs/exist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/dfs/exist" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestExist$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovingCount in algorithm/dfs/movingCount" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/dfs/movingCount" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/dfs/movingCount" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMovingCount$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build mergeTwoLists.go" />
-      <item itemvalue="Go Build.go build algorithm/myAtoi" />
       <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
-      <item itemvalue="Go Build.go build maxSubArrayCgo.go" />
-      <item itemvalue="Go Test.BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" />
+      <item itemvalue="Go Test.BenchmarkMovingCount in algorithm/dfs/movingCount" />
+      <item itemvalue="Go Test.TestMovingCount in algorithm/dfs/movingCount" />
+      <item itemvalue="Go Test.BenchmarkExist in algorithm/dfs/exist" />
+      <item itemvalue="Go Test.TestExist in algorithm/dfs/exist" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestExist in algorithm/dfs/exist" />
+        <item itemvalue="Go Test.BenchmarkExist in algorithm/dfs/exist" />
+        <item itemvalue="Go Test.TestMovingCount in algorithm/dfs/movingCount" />
+        <item itemvalue="Go Test.BenchmarkMovingCount in algorithm/dfs/movingCount" />
         <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
-        <item itemvalue="Go Test.BenchmarkMaxSubArrayCgo in algorithm/动态规划/maxSubArray" />
-        <item itemvalue="Go Build.go build maxSubArrayCgo.go" />
-        <item itemvalue="Go Build.go build algorithm/myAtoi" />
-        <item itemvalue="Go Build.go build mergeTwoLists.go" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BenchmarkMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 08m 35s.xml">
+      <configuration name="BenchmarkMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 08m 45s.xml">
+      <configuration name="TestMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 09m 12s.xml">
+      <configuration name="TestMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkExist_in_algorithm_dfs_exist - 2020.07.27 at 11h 14m 59s.xml">
+      <configuration name="BenchmarkExist in algorithm/dfs/exist" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestExist_in_algorithm_dfs_exist - 2020.07.27 at 11h 15m 05s.xml">
+      <configuration name="TestExist in algorithm/dfs/exist" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="431" y="80" width="1486" height="1002" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -157,15 +293,32 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -181,5 +334,35 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/exist/exist_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
