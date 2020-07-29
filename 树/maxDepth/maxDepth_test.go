@@ -110,3 +110,30 @@ func BenchmarkTreeTraversal(b *testing.B) {
 		}
 	}
 }
+
+func BenchmarkMaxDepth1(b *testing.B) {
+	tree := &TreeNode{
+		3,
+		&TreeNode{
+			Val:   9,
+			Left:  nil,
+			Right: nil,
+		},
+		&TreeNode{
+			Val: 20,
+			Left: &TreeNode{
+				Val:   15,
+				Left:  nil,
+				Right: nil,
+			},
+			Right: &TreeNode{
+				Val:   7,
+				Left:  nil,
+				Right: nil,
+			},
+		},
+	}
+	for i:=0; i<b.N; i++ {
+		maxDepth1(tree)
+	}
+}

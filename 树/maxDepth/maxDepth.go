@@ -46,6 +46,30 @@ func TreeTraversal(root *TreeNode) []int {
 	return res
 }
 
+// 或者使用层次遍历
+func maxDepth1(root *TreeNode) int {
+	if root == nil {
+		return 0
+	}
+	rlt := 0
+	queue := make([]*TreeNode, 0)
+	queue = append(queue, root)
+	for len(queue) != 0 {
+		length := len(queue)
+		rlt += 1
+		for i :=0; i<length; i++ {
+			if queue[i].Left != nil {
+				queue = append(queue, queue[i].Left)
+			}
+			if queue[i].Right != nil {
+				queue = append(queue, queue[i].Right)
+			}
+		}
+		queue = queue[length:]
+	}
+	return rlt
+}
+
 func main() {
 	var tree = &TreeNode {
 		3,
@@ -72,4 +96,6 @@ func main() {
 	fmt.Println(rlt)
 	treverse := TreeTraversal(tree)
 	fmt.Println(treverse)
+	rlt = maxDepth1(tree)
+	fmt.Println(rlt)
 }

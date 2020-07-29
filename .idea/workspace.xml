@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuttingRop/cutting.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuttingRop/cutting_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,21 +29,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -49,16 +43,61 @@
         <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rob/rob.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
+        <entry file="file://$PROJECT_DIR$/cuttingRop/cutting.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cuttingRop/cutting_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -72,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/dfs/exist/exist_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -102,12 +141,17 @@
         <option value="$PROJECT_DIR$/dfs/exist/exist.go" />
         <option value="$PROJECT_DIR$/LinkdedList/isCircle.go" />
         <option value="$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go" />
+        <option value="$PROJECT_DIR$/LinkdedList/isCircle/isCircle_test.go" />
+        <option value="$PROJECT_DIR$/树/maxDepth/maxDepth.go" />
+        <option value="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" />
+        <option value="$PROJECT_DIR$/cuttingRop/cutting_test.go" />
+        <option value="$PROJECT_DIR$/cuttingRop/cutting.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="191" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="80" />
+    <option name="y" value="180" />
     <option name="width" value="1486" />
     <option name="height" value="1002" />
   </component>
@@ -120,13 +164,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="cuttingRop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
@@ -150,10 +198,33 @@
               <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
               <item name="LinkdedList" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkdedList" type="462c0819:PsiDirectoryNode" />
+              <item name="isCircle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="rob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="maxDepth" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,117 +258,133 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestExist in algorithm/dfs/exist">
-    <configuration name="go build algorithm/动态规划/maxSubArray" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestCuttingRop in algorithm/cuttingRop">
+    <configuration name="BenchmarkCuttingRop in algorithm/cuttingRop" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/cuttingRop" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/cuttingRop" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkCuttingRop$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkMaxDepth in algorithm/树/maxDepth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/树/maxDepth" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/树/maxDepth" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkMaxDepth$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkMaxDepth1 in algorithm/树/maxDepth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/树/maxDepth" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/树/maxDepth" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkMaxDepth1$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCuttingRop in algorithm/cuttingRop" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/cuttingRop" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/cuttingRop" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCuttingRop$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cutting_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/cuttingRop" />
+      <framework value="gotest" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/动态规划/maxSubArray/maxSubArrayCgo.go" />
-      <package value="algorithm/动态规划/maxSubArray" />
+      <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkExist in algorithm/dfs/exist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/dfs/exist" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/dfs/exist" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkExist$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkMovingCount in algorithm/dfs/movingCount" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/dfs/movingCount" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/dfs/movingCount" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkMovingCount$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestExist in algorithm/dfs/exist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/dfs/exist" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/dfs/exist" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestExist$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMovingCount in algorithm/dfs/movingCount" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/dfs/movingCount" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/dfs/movingCount" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestMovingCount$" />
+      <filePath value="$PROJECT_DIR$/cuttingRop/cutting_test.go" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
-      <item itemvalue="Go Test.BenchmarkMovingCount in algorithm/dfs/movingCount" />
-      <item itemvalue="Go Test.TestMovingCount in algorithm/dfs/movingCount" />
-      <item itemvalue="Go Test.BenchmarkExist in algorithm/dfs/exist" />
-      <item itemvalue="Go Test.TestExist in algorithm/dfs/exist" />
+      <item itemvalue="Go Test.BenchmarkMaxDepth1 in algorithm/树/maxDepth" />
+      <item itemvalue="Go Test.BenchmarkMaxDepth in algorithm/树/maxDepth" />
+      <item itemvalue="Go Test.TestCuttingRop in algorithm/cuttingRop" />
+      <item itemvalue="Go Test.cutting_test.go" />
+      <item itemvalue="Go Test.BenchmarkCuttingRop in algorithm/cuttingRop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestExist in algorithm/dfs/exist" />
-        <item itemvalue="Go Test.BenchmarkExist in algorithm/dfs/exist" />
-        <item itemvalue="Go Test.TestMovingCount in algorithm/dfs/movingCount" />
-        <item itemvalue="Go Test.BenchmarkMovingCount in algorithm/dfs/movingCount" />
-        <item itemvalue="Go Build.go build algorithm/动态规划/maxSubArray" />
+        <item itemvalue="Go Test.TestCuttingRop in algorithm/cuttingRop" />
+        <item itemvalue="Go Test.BenchmarkCuttingRop in algorithm/cuttingRop" />
+        <item itemvalue="Go Test.cutting_test.go" />
+        <item itemvalue="Go Test.BenchmarkMaxDepth1 in algorithm/树/maxDepth" />
+        <item itemvalue="Go Test.BenchmarkMaxDepth in algorithm/树/maxDepth" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="BenchmarkMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 08m 35s.xml">
-      <configuration name="BenchmarkMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    <history-entry file="BenchmarkMaxDepth1_in_algorithm_树_maxDepth - 2020.07.28 at 16h 27m 37s.xml">
+      <configuration name="BenchmarkMaxDepth1 in algorithm/树/maxDepth" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 08m 45s.xml">
-      <configuration name="TestMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 38m 29s.xml">
+      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestMovingCount_in_algorithm_dfs_movingCount - 2020.07.27 at 11h 09m 12s.xml">
-      <configuration name="TestMovingCount in algorithm/dfs/movingCount" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 39m 01s.xml">
+      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BenchmarkExist_in_algorithm_dfs_exist - 2020.07.27 at 11h 14m 59s.xml">
-      <configuration name="BenchmarkExist in algorithm/dfs/exist" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 40m 22s.xml">
+      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestExist_in_algorithm_dfs_exist - 2020.07.27 at 11h 15m 05s.xml">
-      <configuration name="TestExist in algorithm/dfs/exist" configurationId="GoTestRunConfiguration" />
+    <history-entry file="cutting_test_go - 2020.07.28 at 16h 41m 28s.xml">
+      <configuration name="cutting_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="cutting_test_go - 2020.07.28 at 16h 42m 41s.xml">
+      <configuration name="cutting_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 43m 59s.xml">
+      <configuration name="BenchmarkCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 44m 19s.xml">
+      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 47m 47s.xml">
+      <configuration name="BenchmarkCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 47m 51s.xml">
+      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="191" y="31" width="1486" height="1002" extended-state="0" />
+    <frame x="634" y="84" width="1486" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1654979" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16970547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32949308" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32949308" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,45 +435,87 @@
           <line>38</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cuttingRop/cutting_test.go</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle_test.go" />
     <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dfs/exist/exist_test.go">
+    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findMedianSortedArrays/findMedianSortedArrays.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/exist/exist_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rob/rob.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
