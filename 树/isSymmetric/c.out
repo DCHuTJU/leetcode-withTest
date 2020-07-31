@@ -1,0 +1,10 @@
+mode: set
+algorithm/树/isSymmetric/symmetric.go:43.39,44.17 1 1
+algorithm/树/isSymmetric/symmetric.go:47.2,47.46 1 1
+algorithm/树/isSymmetric/symmetric.go:44.17,46.3 1 0
+algorithm/树/isSymmetric/symmetric.go:50.42,51.26 1 1
+algorithm/树/isSymmetric/symmetric.go:54.2,54.74 1 1
+algorithm/树/isSymmetric/symmetric.go:58.2,58.75 1 1
+algorithm/树/isSymmetric/symmetric.go:51.26,53.3 1 1
+algorithm/树/isSymmetric/symmetric.go:54.74,56.3 1 0
+algorithm/树/isSymmetric/symmetric.go:61.13,65.2 2 0

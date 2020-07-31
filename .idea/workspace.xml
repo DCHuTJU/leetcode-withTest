@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cuttingRop/cutting.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cuttingRop/cutting_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findMagicIndex/find.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findMagicIndex/find_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isSymmetric/symmetric.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/isSymmetric/symmetric_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +40,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
+        <entry file="file://$PROJECT_DIR$/findMagicIndex/find.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="639">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
+        <entry file="file://$PROJECT_DIR$/findMagicIndex/find_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="418">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+            <state relative-caret-position="665">
+              <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -69,26 +69,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rob/rob.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="988">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cuttingRop/cutting.go">
+        <entry file="file://$PROJECT_DIR$/树/isSymmetric/symmetric.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#14#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树/isSymmetric/symmetric_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -97,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/cuttingRop/cutting_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -146,12 +149,17 @@
         <option value="$PROJECT_DIR$/树/maxDepth/maxDepth_test.go" />
         <option value="$PROJECT_DIR$/cuttingRop/cutting_test.go" />
         <option value="$PROJECT_DIR$/cuttingRop/cutting.go" />
+        <option value="$PROJECT_DIR$/findMagicIndex.go" />
+        <option value="$PROJECT_DIR$/findMagicIndex/find.go" />
+        <option value="$PROJECT_DIR$/findMagicIndex/find_test.go" />
+        <option value="$PROJECT_DIR$/树/isSymmetric/symmetric_test.go" />
+        <option value="$PROJECT_DIR$/树/isSymmetric/symmetric.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="80" />
-    <option name="y" value="180" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="532" />
+    <option name="y" value="26" />
     <option name="width" value="1486" />
     <option name="height" value="1002" />
   </component>
@@ -164,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,6 +205,11 @@
             <path>
               <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="findMagicIndex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
               <item name="LinkdedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,13 +232,18 @@
               <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
               <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="isSymmetric" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-withTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-withTest" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
               <item name="maxDepth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,91 +277,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestCuttingRop in algorithm/cuttingRop">
-    <configuration name="BenchmarkCuttingRop in algorithm/cuttingRop" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestIsSymmetric in algorithm/树/isSymmetric">
+    <configuration name="go build symmetric.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/cuttingRop" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/cuttingRop" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkCuttingRop$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkMaxDepth in algorithm/树/maxDepth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/树/maxDepth" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/树/maxDepth" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkMaxDepth$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkMaxDepth1 in algorithm/树/maxDepth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/树/maxDepth" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/树/maxDepth" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkMaxDepth1$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestCuttingRop in algorithm/cuttingRop" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/cuttingRop" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/cuttingRop" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestCuttingRop$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cutting_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/cuttingRop" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/树/isSymmetric/symmetric.go" />
       <package value="algorithm" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/cuttingRop/cutting_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkFindMagicIndex in algorithm/findMagicIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/findMagicIndex" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/findMagicIndex" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkFindMagicIndex$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkFindMagicIndexII in algorithm/findMagicIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/findMagicIndex" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/findMagicIndex" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkFindMagicIndexII$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkIsSymmetric in algorithm/树/isSymmetric" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/树/isSymmetric" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/树/isSymmetric" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkIsSymmetric$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIsSymmetric in algorithm/树/isSymmetric" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/树/isSymmetric" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/树/isSymmetric" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestIsSymmetric$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Test.BenchmarkMaxDepth1 in algorithm/树/maxDepth" />
-      <item itemvalue="Go Test.BenchmarkMaxDepth in algorithm/树/maxDepth" />
-      <item itemvalue="Go Test.TestCuttingRop in algorithm/cuttingRop" />
-      <item itemvalue="Go Test.cutting_test.go" />
-      <item itemvalue="Go Test.BenchmarkCuttingRop in algorithm/cuttingRop" />
+      <item itemvalue="Go Test.BenchmarkFindMagicIndex in algorithm/findMagicIndex" />
+      <item itemvalue="Go Test.BenchmarkFindMagicIndexII in algorithm/findMagicIndex" />
+      <item itemvalue="Go Build.go build symmetric.go" />
+      <item itemvalue="Go Test.BenchmarkIsSymmetric in algorithm/树/isSymmetric" />
+      <item itemvalue="Go Test.TestIsSymmetric in algorithm/树/isSymmetric" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestCuttingRop in algorithm/cuttingRop" />
-        <item itemvalue="Go Test.BenchmarkCuttingRop in algorithm/cuttingRop" />
-        <item itemvalue="Go Test.cutting_test.go" />
-        <item itemvalue="Go Test.BenchmarkMaxDepth1 in algorithm/树/maxDepth" />
-        <item itemvalue="Go Test.BenchmarkMaxDepth in algorithm/树/maxDepth" />
+        <item itemvalue="Go Test.TestIsSymmetric in algorithm/树/isSymmetric" />
+        <item itemvalue="Go Test.BenchmarkIsSymmetric in algorithm/树/isSymmetric" />
+        <item itemvalue="Go Build.go build symmetric.go" />
+        <item itemvalue="Go Test.BenchmarkFindMagicIndexII in algorithm/findMagicIndex" />
+        <item itemvalue="Go Test.BenchmarkFindMagicIndex in algorithm/findMagicIndex" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="BenchmarkMaxDepth1_in_algorithm_树_maxDepth - 2020.07.28 at 16h 27m 37s.xml">
-      <configuration name="BenchmarkMaxDepth1 in algorithm/树/maxDepth" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 38m 29s.xml">
-      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 39m 01s.xml">
-      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 40m 22s.xml">
-      <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="cutting_test_go - 2020.07.28 at 16h 41m 28s.xml">
       <configuration name="cutting_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -361,17 +367,28 @@
     <history-entry file="TestCuttingRop_in_algorithm_cuttingRop - 2020.07.28 at 16h 47m 51s.xml">
       <configuration name="TestCuttingRop in algorithm/cuttingRop" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="BenchmarkFindMagicIndex_in_algorithm_findMagicIndex - 2020.07.31 at 10h 38m 26s.xml">
+      <configuration name="BenchmarkFindMagicIndex in algorithm/findMagicIndex" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkFindMagicIndexII_in_algorithm_findMagicIndex - 2020.07.31 at 10h 41m 44s.xml">
+      <configuration name="BenchmarkFindMagicIndexII in algorithm/findMagicIndex" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkIsSymmetric_in_algorithm_树_isSymmetric - 2020.07.31 at 10h 57m 01s.xml">
+      <configuration name="BenchmarkIsSymmetric in algorithm/树/isSymmetric" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsSymmetric_in_algorithm_树_isSymmetric - 2020.07.31 at 10h 57m 07s.xml">
+      <configuration name="TestIsSymmetric in algorithm/树/isSymmetric" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="84" width="1486" height="1002" extended-state="0" />
-    <editor active="true" />
+    <frame x="807" y="46" width="1486" height="1002" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16970547" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16970547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,8 +396,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.51152074" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="make" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -438,7 +456,6 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cuttingRop/cutting_test.go</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -453,17 +470,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
+    <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rob/rob.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dfs/exist/exist.go">
+    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="133">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -477,45 +515,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkdedList/isCircle/isCircle.go">
+    <entry file="file://$PROJECT_DIR$/findMagicIndex.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/movingCount/moving_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findMagicIndex/find_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        <state relative-caret-position="665">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/树/maxDepth/maxDepth_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="988">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rob/rob.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cuttingRop/cutting.go">
+    <entry file="file://$PROJECT_DIR$/树/isSymmetric/symmetric_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findMagicIndex/find.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/isSymmetric/symmetric.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#14#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
