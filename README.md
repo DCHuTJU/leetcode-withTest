@@ -29,7 +29,7 @@ go tool pprof cpu.out
 // 选择使用 web
 (pprof) web
 ```
-启动火焰图的方法：
+启动**火焰图**的方法：
 ```go
 
 import "net/http"
