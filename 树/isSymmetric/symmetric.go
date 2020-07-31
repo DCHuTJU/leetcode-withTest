@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"net/http"
 	_ "net/http/pprof"
 )
 
@@ -60,7 +61,7 @@ func dfsIsSymmetric(a, b *TreeNode) bool {
 }
 
 func main() {
-	// http.ListenAndServe("0.0.0.0:9999", nil)
+	http.ListenAndServe("0.0.0.0:9999", nil)
 	rlt := IsSymmetric(root)
 	fmt.Printf("Result is: %v\n", rlt)
 }

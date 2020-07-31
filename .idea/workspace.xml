@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/findMagicIndex/find.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findMagicIndex/find_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isSymmetric/symmetric.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/isSymmetric/symmetric_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/isSymmetric/symmetric.go" beforeDir="false" afterPath="$PROJECT_DIR$/树/isSymmetric/symmetric.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,8 +155,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="532" />
-    <option name="y" value="26" />
+    <option name="x" value="628" />
+    <option name="y" value="35" />
     <option name="width" value="1486" />
     <option name="height" value="1002" />
   </component>
@@ -277,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestIsSymmetric in algorithm/树/isSymmetric">
+  <component name="RunManager" selected="Go Build.go build symmetric.go">
     <configuration name="go build symmetric.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -340,9 +337,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build symmetric.go" />
         <item itemvalue="Go Test.TestIsSymmetric in algorithm/树/isSymmetric" />
         <item itemvalue="Go Test.BenchmarkIsSymmetric in algorithm/树/isSymmetric" />
-        <item itemvalue="Go Build.go build symmetric.go" />
         <item itemvalue="Go Test.BenchmarkFindMagicIndexII in algorithm/findMagicIndex" />
         <item itemvalue="Go Test.BenchmarkFindMagicIndex in algorithm/findMagicIndex" />
       </list>
@@ -381,7 +378,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="807" y="46" width="1486" height="1002" extended-state="0" />
+    <frame x="628" y="35" width="1486" height="1002" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16970547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
