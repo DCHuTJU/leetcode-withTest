@@ -29,3 +29,4 @@ go tool pprof cpu.out
 // 选择使用 web
 (pprof) web
 ```
+火焰图的方法还在探索中，等待添加...
