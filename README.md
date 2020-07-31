@@ -29,3 +29,20 @@ go tool pprof cpu.out
 // 选择使用 web
 (pprof) web
 ```
+启动**火焰图**的方法：
+```go
+
+import "net/http"
+import _ "net/http/pprof"
+func main() {
+    // 主函数中添加
+	http.ListenAndServe("0.0.0.0:9999", nil)
+ 
+}
+```
+并且在命令行中输入：
+```go
+go tool pprof -http=:6666 http://localhost:9999/debug/pprof/profile
+```
+等待30s左右后可以在浏览器中查看
+
