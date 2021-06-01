@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HammingDistance/hammingDistance.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HammingDistance/hammingDistance_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canEat/canEat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canEat/canEat_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,23 +148,25 @@
       <recent name="F:\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.BenchmarkTotalHammingDistance in algorithm/HammingDistance">
-    <configuration name="go build findKMax.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.BenchmarkCanEat in algorithm/canEat">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/heapSort/findKMax.go" />
-      <package value="algorithm" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build permute.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkCanEat in algorithm/canEat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/permute/permute.go" />
-      <package value="algorithm" />
-      <directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$/canEat" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/canEat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkCanEat\E$" />
       <method v="2" />
     </configuration>
     <configuration name="BenchmarkFindSubsequences in algorithm/permute" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -200,20 +202,39 @@
       <pattern value="^\QBenchmarkTotalHammingDistance\E$" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench canEat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/canEat" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/canEat/canEat_test.go" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Go Build.go build findKMax.go" />
-      <item itemvalue="Go Build.go build permute.go" />
       <item itemvalue="Go Test.BenchmarkFindSubsequences in algorithm/permute" />
       <item itemvalue="Go Test.BenchmarkHammingDistance in algorithm/HammingDistance" />
       <item itemvalue="Go Test.BenchmarkTotalHammingDistance in algorithm/HammingDistance" />
+      <item itemvalue="Go Test.gobench canEat_test.go" />
+      <item itemvalue="Go Test.BenchmarkCanEat in algorithm/canEat" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.BenchmarkCanEat in algorithm/canEat" />
+        <item itemvalue="Go Test.gobench canEat_test.go" />
         <item itemvalue="Go Test.BenchmarkTotalHammingDistance in algorithm/HammingDistance" />
         <item itemvalue="Go Test.BenchmarkHammingDistance in algorithm/HammingDistance" />
         <item itemvalue="Go Test.BenchmarkFindSubsequences in algorithm/permute" />
-        <item itemvalue="Go Build.go build permute.go" />
-        <item itemvalue="Go Build.go build findKMax.go" />
       </list>
     </recent_temporary>
   </component>
