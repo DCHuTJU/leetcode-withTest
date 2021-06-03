@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c78d3d0-151d-433e-abe8-918c66c4d290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/canEat/canEat.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canEat/canEat_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findMaxLength/findMaxLength.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,13 +147,13 @@
       <recent name="F:\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.BenchmarkCanEat in algorithm/canEat">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <component name="RunManager" selected="Go Build.go build algorithm/findMaxLength">
+    <configuration name="go build algorithm/findMaxLength" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/findMaxLength/findMaxLength.go" />
+      <package value="algorithm/findMaxLength" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -167,17 +166,6 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <pattern value="^\QBenchmarkCanEat\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BenchmarkFindSubsequences in algorithm/permute" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/permute" />
-      <framework value="gobench" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/permute" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^BenchmarkFindSubsequences$" />
       <method v="2" />
     </configuration>
     <configuration name="BenchmarkHammingDistance in algorithm/HammingDistance" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -202,16 +190,6 @@
       <pattern value="^\QBenchmarkTotalHammingDistance\E$" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="gobench canEat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/canEat" />
@@ -222,19 +200,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Test.BenchmarkFindSubsequences in algorithm/permute" />
       <item itemvalue="Go Test.BenchmarkHammingDistance in algorithm/HammingDistance" />
       <item itemvalue="Go Test.BenchmarkTotalHammingDistance in algorithm/HammingDistance" />
       <item itemvalue="Go Test.gobench canEat_test.go" />
       <item itemvalue="Go Test.BenchmarkCanEat in algorithm/canEat" />
+      <item itemvalue="Go Build.go build algorithm/findMaxLength" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algorithm/findMaxLength" />
         <item itemvalue="Go Test.BenchmarkCanEat in algorithm/canEat" />
         <item itemvalue="Go Test.gobench canEat_test.go" />
         <item itemvalue="Go Test.BenchmarkTotalHammingDistance in algorithm/HammingDistance" />
         <item itemvalue="Go Test.BenchmarkHammingDistance in algorithm/HammingDistance" />
-        <item itemvalue="Go Test.BenchmarkFindSubsequences in algorithm/permute" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +304,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Happy Children’s Day" />
+    <option name="LAST_COMMIT_MESSAGE" value="Happy Children’s Day" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -347,6 +329,11 @@
           <url>file://$PROJECT_DIR$/cuttingRop/cutting_test.go</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/findMaxLength/findMaxLength.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
